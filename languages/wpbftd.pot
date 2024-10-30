@@ -1,0 +1,182 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-13 14:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wpbf_starter.php:46
+msgid "Please change the Service"
+msgstr ""
+
+#: wpbf_starter.php:54
+msgid "Low balance on the Faucet"
+msgstr ""
+
+#: wpbf_starter.php:70
+msgid "Please note"
+msgstr ""
+
+#: wpbf_starter.php:73
+msgid "requires at least PHP version 5.4 to function properly. "
+msgstr ""
+
+#: wpbf_starter.php:74
+msgid "Your PHP version is"
+msgstr ""
+
+#: wpbf_starter.php:75
+msgid ""
+"Please upgrade the PHP, usually it is easy to do via the hosting control "
+"panel."
+msgstr ""
+
+#: wpbf_starter.php:76
+msgid "deactivated"
+msgstr ""
+
+#: wpbf_index.php:22
+msgid "Index"
+msgstr ""
+
+#: wpbf_index.php:335 wpbf_index.php:338 wpbf_index.php:347 wpbf_index.php:350
+#: wpbf_index.php:556 templates/default/index.php:218
+msgid "minutes"
+msgstr ""
+
+#: wpbf_index.php:341
+msgid "Invalid address"
+msgstr ""
+
+#: wpbf_index.php:344
+msgid "Invalid captcha code"
+msgstr ""
+
+#: wpbf_index.php:347 wpbf_index.php:350 templates/default/index.php:333
+msgid "You have to wait"
+msgstr ""
+
+#: wpbf_index.php:353 wpbf_index.php:357 wpbf_index.php:360
+msgid "Unknown error"
+msgstr ""
+
+#: script/common.php:282
+msgid "Not configured!"
+msgstr ""
+
+#: script/common.php:282
+msgid "Please visit Admin section first"
+msgstr ""
+
+#: script/common.php:675
+msgid "Share and earn "
+msgstr ""
+
+#: script/common.php:678
+msgid "Share this link with your friends and earn"
+msgstr ""
+
+#: script/common.php:678
+msgid "referral commission"
+msgstr ""
+
+#: script/common.php:699
+#, php-format
+msgid ""
+" \tHello %%USERNAME%%<br/>\n"
+"\t\tFaucet <a href='%%FAUCETADMINURL%%'>%%FAUCETNAME%%</a> has only "
+"%%COINCOUNT%% satoshi left.<br/>\n"
+"\t\tPlease <a href='https://cryptoo.me/deposit'>deposit some funds</a> to "
+"keep it running.<br/>\n"
+"\t\tYou may also like to <a href='%%FAUCETADMINURL%%'>adjust the "
+"configuration</a> of this faucet.<br/>\n"
+"\t\t<br>\n"
+"\t\tKind regards,<br/>\n"
+"\t\t<a href='%%SITEURL%%'>%%SITENAME%%</a> \n"
+"\t\t"
+msgstr ""
+
+#: script/common.php:714
+#, php-format
+msgid "Faucet '%%FAUCETNAME%%' has low balance !"
+msgstr ""
+
+#: templates/default/index.php:183
+msgid "Balance"
+msgstr ""
+
+#: templates/default/index.php:190
+msgid "Faucet switched off by Admin"
+msgstr ""
+
+#: templates/default/index.php:216
+msgid "every"
+msgstr ""
+
+#: templates/default/index.php:224
+msgid "This faucet exceeded it's safety limits and may not payout now!"
+msgstr ""
+
+#: templates/default/index.php:248
+msgid "Referral commission"
+msgstr ""
+
+#: templates/default/index.php:275 templates/default/index.php:279
+msgid "eg."
+msgstr ""
+
+#: templates/default/index.php:275 templates/default/index.php:276
+msgid "or"
+msgstr ""
+
+#: templates/default/index.php:276
+msgid "email recipient address"
+msgstr ""
+
+#: templates/default/index.php:278 templates/default/index.php:279
+msgid "Recipient address"
+msgstr ""
+
+#: templates/default/index.php:306
+msgid "Faucet temporary unavailable"
+msgstr ""
+
+#: templates/default/index.php:307
+msgid "https://wmexp.com/"
+msgstr ""
+
+#: templates/default/index.php:307
+msgid "visit other Faucets"
+msgstr ""
+
+#: templates/default/index.php:311
+msgid "Get reward!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Bitcoin / Altcoin Faucet"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Bitcoin / Altcoin (BCH, BLK, BTC, BTX, DASH, DGB, DOGE, ETH, LTC, POT, PPC, "
+"XMR, XPM, ZEC) Faucet for WordPress"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://gra4.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexey Trofimov"
+msgstr ""
